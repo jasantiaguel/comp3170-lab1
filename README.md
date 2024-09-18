@@ -1,3 +1,3 @@
-# Getting Started
+# MyTunes
 
-Creating a React app# comp3170-lab1
+WebApp showing my top Musiq Soulchild albums
